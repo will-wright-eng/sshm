@@ -47,7 +47,7 @@ A lightweight command-line tool to manage SSH config entries within a delimited 
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/sshm.git
+git clone https://github.com/will-wright-eng/sshm.git
 cd sshm
 ```
 
